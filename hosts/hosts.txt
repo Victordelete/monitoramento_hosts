@@ -1,0 +1,10 @@
+www.google.com.br
+www.google.com
+www.digisystem.com
+www.caixa.gov.br
+127.0.0.1
+127.0.0.5
+www.facebook.com
+www.youtube.com
+198.1.2.3
+www.digisystem.com.br
